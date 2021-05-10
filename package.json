@@ -1,0 +1,22 @@
+{
+  "name": "@uinessashuvalova/ajs-3.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inessashuvalova/ajs-3.2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inessashuvalova/ajs-3.2/issues"
+  },
+  "homepage": "https://github.com/inessashuvalova/ajs-3.2#readme",
+  "dependencies": {
+    "@inessashuvalova/ajs-3.1": "^1.0.0"
+  }
+}
